@@ -4,4 +4,5 @@ numbers = []
     array.each do |number|
     numbers << number ** 2
   end
+  numbers
 end
